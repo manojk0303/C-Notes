@@ -4,6 +4,7 @@ ROLL NO : 22Z236
 
 Class Notes 
 
+```c
 CELCIUS TO FARENHEIT PROGRAM
 
 #include <stdio.h>
@@ -2084,3 +2085,4 @@ int main()
 }
 
 
+```
