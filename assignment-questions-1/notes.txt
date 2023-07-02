@@ -1,0 +1,2 @@
+dynamically memory allocated array
+2D array traversing using pointer 
